@@ -1,1 +1,65 @@
 /* Copy and paste your CSS from CodePen into here */
+<style>
+ .thin-red-border {
+          border-style: solid;
+          border-width: 5px;
+          border-color: rgb(139, 0, 0);
+        }
+#image {
+  max-width: 400px;
+  display: block;
+ margin-left: auto;
+  margin-right: auto;
+}
+#title {
+  text-align: center;
+  color: rgb(139, 0, 0);
+  font-family: monospace;
+  font-size: 75px;
+  padding: 25px;
+ 
+        }     
+        #dragon-img {
+          display: block;
+            margin-left: auto;
+            margin-right: auto;
+          max-width: 1000px;
+        }
+p {
+  font-family: monospace;
+  font-size: 20px;
+ 
+        }
+ul {
+  font-family: monospace;
+  font-size: 20px;
+  text-align: left;
+  display: block;
+  margin-left: 500px;
+
+        }      
+h2{
+  text-align: center;
+  color: rgb(139, 0, 0);
+  font-family: monospace;
+  font-size: 60px;
+        }
+        
+        h3 {color: rgb(139, 0, 0);
+        font-family: monospace;
+        font-size: 25px;
+        }
+#main{
+  background-color: black;
+  color: white;
+  text-align: center;
+        }
+        
+#img-caption {
+          text-align: center;
+        }
+        #tribute-footer {
+          font-family: monospace;
+          font-size: 16px;
+        }
+</style>
